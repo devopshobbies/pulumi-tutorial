@@ -9,7 +9,7 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 <p align="center" style="text-align:center;">
   <a href="https://www.pulumi.com?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=top-logo">
-    <img alt="HashiCorp CDKTF logo" src="image/plumi.svg" width="500" />
+    <img alt="HashiCorp CDKTF logo" src="image/pulumi.svg" width="500" />
   </a>
 </p>
 
