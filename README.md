@@ -8,8 +8,8 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 
 <p align="center" style="text-align:center;">
-  <a href="https://www.terraform.io/cdktf">
-    <img alt="HashiCorp CDKTF logo" src="image/cdktf.png" width="500" />
+  <a href="https://www.pulumi.com?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=top-logo">
+    <img alt="HashiCorp CDKTF logo" src="image/plumi.svg" width="500" />
   </a>
 </p>
 
