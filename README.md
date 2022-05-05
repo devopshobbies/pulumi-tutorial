@@ -1,10 +1,6 @@
-# CDKTF-tutorial
-Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define and provision infrastructure. This gives you access to the entire Terraform ecosystem without learning HashiCorp Configuration Language (HCL) and lets you leverage the power of your existing toolchain for testing, dependency management, etc.
+# Pulumi-tutorial
 
-We currently support TypeScript, Typescript, Java, C#, and Go (experimental).
-
-We have a plan to deploy some resoruces on all public cloud such as AWS, Azure and GCP.
-
+Pulumi is an open source infrastructure as code tool for creating, deploying, and managing cloud infrastructure. Pulumi works with traditional infrastructures like VMs, networks, and databases, in addition to modern architectures, including containers, Kubernetes clusters, and serverless functions. Pulumi supports 70+ public, private, and hybrid cloud service providers.
 
 
 <p align="center" style="text-align:center;">
