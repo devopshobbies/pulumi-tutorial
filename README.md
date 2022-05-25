@@ -45,7 +45,18 @@ Pulumi is an open source infrastructure as code tool for creating, deploying, an
 
  - [JAVA CDKTF - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
 
-## Contributions:
+
+# Kubernetes and pulumi
+Pulumi can be so handy when it comes to kubernetes cluster and application deployment. we love Hashicorm Terraform but pulumi is also fun in its own ways.
+
+Pulumi’s Cloud Native SDK makes it easy to target any Kubernetes environment to provision a cluster, configure and deploy applications, and update them as required.
+
+Pulumi supports programming against Kubernetes—Minikube, on-premises and cloud-hosted custom Kubernetes clusters, and the managed services from Google (GKE), Azure (AKS), and Amazon (EKS). The Pulumi Kubernetes provider packages and CLI help you accomplish all these within minutes.
+
+We are using **Python** as the language to build of codes.
+
+
+# Contributions:
 
 All contributions are welcomed. Help me to enrich this repository.
 
@@ -58,4 +69,5 @@ If you find any **bugs** in the examples, please file an issue.
  - [ ] Adding Packer LXC
  - [ ] Adding Packer Hyper-V
  - [ ] Adding Packer Azure
+ - [ ] Adding Kubernetes
 
